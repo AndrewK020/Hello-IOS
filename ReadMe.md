@@ -5,8 +5,7 @@ App changes text, background color, and text color, with a reset by tapping view
 
 ### App Walk-though
 
-<a href="https://imgflip.com/gif/2gzrjk"><img src="https://i.imgflip.com/2gzrjk.gif" title="made at imgflip.com"/></a>
-
+<div class="cloudapp-embed" data-slug="d3af41ecdd69"><a href="https://cl.ly/d3af41ecdd69">Screen Recording 2018-08-31 at 08.05 PM.gif</a><script async src="https://embed.cl.ly/embedded.gz.js" charset="utf-8"></script></div>
 
 ### Required User Stories
 - [ x] 1. User sees custom text in a label - Hello from {name}!
