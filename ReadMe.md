@@ -5,7 +5,7 @@ App changes text, background color, and text color, with a reset by tapping view
 
 ### App Walk-though
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/MpWVTiD"><a href="//imgur.com/MpWVTiD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/TIHB0Qd.gif" width=200><br>
 
 ### Required User Stories
 - [ x] 1. User sees custom text in a label - Hello from {name}!
