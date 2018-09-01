@@ -38,7 +38,12 @@ class ViewController: UIViewController {
     
     @IBAction func didTapTextButton(_ sender: Any) {
         //textLabel.text = "Goodbye!"
-        textLabel.text = textField.text
+        if (textField.text != ""){
+            textLabel.text = textField.text
+        }
+        else{
+            textLabel.text = "Goodbye!"
+        }
         textField.text = ""
         view.endEditing(true)
     }
